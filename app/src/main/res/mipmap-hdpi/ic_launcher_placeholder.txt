@@ -1,0 +1,12 @@
+# Launcher Icon Placeholder
+
+Place your launcher icons here:
+- ic_launcher.png (72x72 for hdpi)
+- ic_launcher_round.png (72x72 for hdpi)
+
+You can generate icons using:
+1. Android Studio's Image Asset Studio
+2. Online icon generators
+3. Design tools like Figma or Adobe Illustrator
+
+Recommended: A dental/tooth themed icon with blue color scheme to match the app theme.
